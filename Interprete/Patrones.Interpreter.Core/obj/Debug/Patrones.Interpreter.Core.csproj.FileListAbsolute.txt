@@ -1,0 +1,6 @@
+C:\Users\esalv\Desktop\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\bin\Debug\Patrones.Interpreter.Core.dll
+C:\Users\esalv\Desktop\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\bin\Debug\Patrones.Interpreter.Core.pdb
+C:\Users\esalv\Desktop\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\obj\Debug\Patrones.Interpreter.Core.csproj.AssemblyReference.cache
+C:\Users\esalv\Desktop\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\obj\Debug\Patrones.Interpreter.Core.csproj.CoreCompileInputs.cache
+C:\Users\esalv\Desktop\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\obj\Debug\Patrones.Interpreter.Core.dll
+C:\Users\esalv\Desktop\patr-n-interpreter-en-c-sharp-master\Patrones.Interpreter.Core\obj\Debug\Patrones.Interpreter.Core.pdb
